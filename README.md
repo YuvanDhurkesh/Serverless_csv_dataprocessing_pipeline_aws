@@ -7,11 +7,6 @@ The pipeline automatically processes CSV files uploaded to Amazon S3, performs p
 
 The architecture is fully serverless, scalable, event-driven, and suitable for modern cloud-native ETL workflows.
 
----
-
-# 🏗️ Architecture Diagram
-
-attached below
 
 ---
 
